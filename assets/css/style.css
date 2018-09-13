@@ -9,3 +9,31 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.title {
+	text-align: center;
+	background-color: #a1243a;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.title h1 {
+	font-family: El Rio Lobo;
+	color: #f2af40;
+}
+.title p {
+	color: #fff;
+}
+.image {
+	background-color: #158abe;
+	text-align: center;
+}
+.bg-image {
+
+}
