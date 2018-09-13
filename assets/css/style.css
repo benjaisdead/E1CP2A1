@@ -17,23 +17,58 @@ body {
 }
 
 .title {
+	padding-top: 40px;
+	padding-bottom: 50px;
 	text-align: center;
 	background-color: #a1243a;
-	margin: 0px;
-	padding: 0px;
-	border: 0px;
 }
 .title h1 {
+	font-size: 48px;
+	margin: 0;
 	font-family: El Rio Lobo;
 	color: #f2af40;
 }
 .title p {
+	margin: 0;
 	color: #fff;
+	font-size: 24px;
 }
 .image {
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background-color: #158abe;
 	text-align: center;
 }
+.cuzco1 {
+	width: 600px;
+}
 .bg-image {
-
+background-image: url(../images/cuzco2.jpg);
+background-size: 100%;
+min-height: 600px;
+}
+.bg-image h1 {
+	font-family: El Rio Lobo;
+	color: #f2af40;
+	text-align: right;
+	margin-top: 0;
+	margin-right: 20px;
+	margin-bottom: 0;
+	padding-top: 70px;
+	font-size: 36px;
+}
+.bg-image p {
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-size: 20px;
+	color: #fff;
+}
+.precios p {
+	margin-top: 0;
+	margin-bottom: 15px;
+	text-align: center;
+	font-size: 50px;
+	font-family: El Rio Lobo;
 }
